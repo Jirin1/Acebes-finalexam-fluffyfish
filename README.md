@@ -73,7 +73,7 @@ Setup Locally
 Clone the repository:
 
 bash
-git clone https://github.com/jirin1/Camacho-finalexam-fluffyfish.git
+git clone https://github.com/jirin1/Acebes-finalexam-fluffyfish.git
 Open index.html in a browser
 
 Credits
