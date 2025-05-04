@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/643ca1d2-38c1-423b-89f3-a5c5b37975aa)
+
 A Progressive Web App (PWA) version of the classic Flappy Bird game with an underwater theme.
 
 Features
